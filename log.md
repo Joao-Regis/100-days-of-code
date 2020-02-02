@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log - João Regis de Oliveira
 
 ### Day 1: February 01, 2020
 

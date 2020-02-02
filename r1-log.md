@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - Joao Regis de Oliveira
+# #100DaysOfCode Log - Round 1 - João Regis de Oliveira
 
 The log of my #100DaysOfCode challenge. Started on February 1, Saturday, 2020.
 

@@ -1,13 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: February 01, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
+#100DaysOfCode Day 1!
+Started w HTML review 
+@freeCodeCamp.
+Plan for initial weeks: Start with review of HTML, CSS, and JavaScript. 
+One of several goals: data vis/analysis + build dashboards w JS, React, Python, Jupyter for my internship.
+Resources to include @Codecademy,@cs50...
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Review is always useful. Primarily used FreeCodeCamp today. CodeCademy explains the HTML basiics quite well.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** https://twitter.com/JoaoReads/status/1223846873342996480
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)

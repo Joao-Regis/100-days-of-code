@@ -22,3 +22,11 @@ Worked on Basic JavaScript @freeCodeCamp.
 Plan to return to CSS in Responsive Web Design Certification @freeCodeCamp.
 
 **Thoughts:** Continuing review.
+
+### Day 3: February 03, 2020
+
+**Today's Progress**:
+#100DaysOfCode Day 3!
+Started on Introduction to Basic CSS @freeCodeCamp.
+
+**Thoughts:** Continuing review.

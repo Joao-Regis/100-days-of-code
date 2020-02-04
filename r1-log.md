@@ -8,4 +8,8 @@ The log of my #100DaysOfCode challenge. Started on February 1, Saturday, 2020.
 Started w HTML review @freeCodeCamp.
 
 ### R1D2
-Completed Basic HTML and HTML5 @freeCodeCamp. Worked on Basic JavaScript @freeCodeCamp.
+Completed Basic HTML and HTML5 @freeCodeCamp. Worked on Basic JavaScript @freeCodeCamp
+
+### R1D3
+Started on Introduction to Basic CSS @freeCodeCamp.
+

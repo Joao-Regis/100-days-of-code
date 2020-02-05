@@ -26,7 +26,13 @@ Plan to return to CSS in Responsive Web Design Certification @freeCodeCamp.
 ### Day 3: February 03, 2020
 
 **Today's Progress**:
-#100DaysOfCode Day 3.
+#100DaysOfCode Day 3!
 Started on Introduction to Basic CSS @freeCodeCamp.
 
 **Thoughts:** Continuing review.
+
+### Day 4: February 04, 2020
+#100DaysOfCode Day 4!
+Some JavaScript, JQuery, AJAX using @Codecademy and @pluralsight .
+
+**Thoughts:** Continuing review. A bit of Plurasight's JSON course.

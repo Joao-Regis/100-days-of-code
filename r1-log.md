@@ -13,3 +13,6 @@ Completed Basic HTML and HTML5 @freeCodeCamp. Worked on Basic JavaScript @freeCo
 ### R1D3
 Started on Introduction to Basic CSS @freeCodeCamp.
 
+### R1D4
+#100DaysOfCode Day 4! Some JavaScript, JQuery, AJAX using @Codecademy and @pluralsight .
+

@@ -36,3 +36,9 @@ Started on Introduction to Basic CSS @freeCodeCamp.
 Some JavaScript, JQuery, AJAX using @Codecademy and @pluralsight .
 
 **Thoughts:** Continuing review. A bit of Plurasight's JSON course.
+
+
+### Day 5: February 05, 2020
+Continued work on CSS on @freeCodeCamp in Responsive Web Design. Also JSON on @pluralsight .
+
+**Thoughts:** Continuing review. More of Plurasight's JSON course.

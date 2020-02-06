@@ -16,3 +16,5 @@ Started on Introduction to Basic CSS @freeCodeCamp.
 ### R1D4
 #100DaysOfCode Day 4! Some JavaScript, JQuery, AJAX using @Codecademy and @pluralsight .
 
+### R1D5
+Continued work on CSS on @freeCodeCamp in Responsive Web Design. Also JSON on @pluralsight .

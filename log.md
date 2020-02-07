@@ -38,7 +38,15 @@ Some JavaScript, JQuery, AJAX using @Codecademy and @pluralsight .
 **Thoughts:** Continuing review. A bit of Plurasight's JSON course.
 
 
+
 ### Day 5: February 05, 2020
 Continued work on CSS on @freeCodeCamp in Responsive Web Design. Also JSON on @pluralsight .
 
 **Thoughts:** Continuing review. More of Plurasight's JSON course.
+
+
+### Day 6: February 06, 2020
+#100DaysOfCode Day 6!
+More CSS and more JavaScript @freeCodeCamp. And comparing to @Codecademy.
+
+**Thoughts:** Continuing review. Comparing HTML and CSS to CodeCademy's lessons.

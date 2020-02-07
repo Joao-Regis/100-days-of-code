@@ -18,3 +18,6 @@ Started on Introduction to Basic CSS @freeCodeCamp.
 
 ### R1D5
 Continued work on CSS on @freeCodeCamp in Responsive Web Design. Also JSON on @pluralsight .
+
+### R1D6
+More CSS and more JavaScript @freeCodeCamp. And comparing to @Codecademy.

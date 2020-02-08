@@ -50,3 +50,7 @@ Continued work on CSS on @freeCodeCamp in Responsive Web Design. Also JSON on @p
 More CSS and more JavaScript @freeCodeCamp. And comparing to @Codecademy.
 
 **Thoughts:** Continuing review. Comparing HTML and CSS to CodeCademy's lessons.
+
+### Day 7: February 07, 2020
+#100DaysOfCode Day 7!
+Some JavaScript @pluralsight.

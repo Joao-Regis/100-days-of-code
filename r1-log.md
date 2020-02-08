@@ -21,3 +21,6 @@ Continued work on CSS on @freeCodeCamp in Responsive Web Design. Also JSON on @p
 
 ### R1D6
 More CSS and more JavaScript @freeCodeCamp. And comparing to @Codecademy.
+
+### R1D7
+#100DaysOfCode Day 7! Some JavaScript @pluralsight.

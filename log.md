@@ -54,3 +54,5 @@ More CSS and more JavaScript @freeCodeCamp. And comparing to @Codecademy.
 ### Day 7: February 07, 2020
 #100DaysOfCode Day 7!
 Some JavaScript @pluralsight.
+
+**Thoughts:** JavaScript. Considering starting over with HTML and CSS with Codecademy.

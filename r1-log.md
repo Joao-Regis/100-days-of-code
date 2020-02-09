@@ -24,3 +24,6 @@ More CSS and more JavaScript @freeCodeCamp. And comparing to @Codecademy.
 
 ### R1D7
 #100DaysOfCode Day 7! Some JavaScript @pluralsight.
+
+### R1D8
+JSON, AJAX to retrieve data via API @pluralsight .

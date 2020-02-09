@@ -56,3 +56,9 @@ More CSS and more JavaScript @freeCodeCamp. And comparing to @Codecademy.
 Some JavaScript @pluralsight.
 
 **Thoughts:** JavaScript. Considering starting over with HTML and CSS with Codecademy.
+
+### Day 8: February 08, 2020
+#100DaysOfCode Day 8!
+JSON, AJAX to retrieve data via API @pluralsight .
+
+**Thoughts:** JavaScript, JSON, AJAX, API.

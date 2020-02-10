@@ -27,3 +27,6 @@ More CSS and more JavaScript @freeCodeCamp. And comparing to @Codecademy.
 
 ### R1D8
 JSON, AJAX to retrieve data via API @pluralsight .
+
+### R1D9
+Reversing order to topic lessons first in @Codecademy then @freeCodeCamp  for these review weeks ahead. Starting from the beginning with HTML @Codecademy.

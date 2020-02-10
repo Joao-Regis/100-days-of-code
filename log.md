@@ -62,3 +62,10 @@ Some JavaScript @pluralsight.
 JSON, AJAX to retrieve data via API @pluralsight .
 
 **Thoughts:** JavaScript, JSON, AJAX, API.
+
+
+### Day 9: February 09, 2020
+#100DaysOfCode Day 9!
+Reversing order to topic lessons first in @Codecademy then @freeCodeCamp  for these review weeks ahead. Starting from the beginning with HTML @Codecademy.
+
+**Thoughts:** While doing both Codecademy and FreeCodeCamp I found I prefer Codecademy's lessons for HTML, CSS and JavaScript. I plan to learn/review first in CodeCademy and then complete same topic in FreeCodeCamp.
